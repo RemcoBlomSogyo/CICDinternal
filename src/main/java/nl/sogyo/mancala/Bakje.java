@@ -55,5 +55,7 @@ public abstract class Bakje {
 
 	public abstract void geefDoor(int hand, Speler eigenaarHand);
 
-	public abstract void geefKalaha(int hand);
+	public abstract void geefKalaha(int hand); 
 }
+
+// test veranderen code

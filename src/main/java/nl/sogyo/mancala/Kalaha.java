@@ -57,3 +57,5 @@ public class Kalaha extends Bakje{
 		buurman.getEigenaar().wisselBeurt();
 	}
 }
+
+// test veranderen code

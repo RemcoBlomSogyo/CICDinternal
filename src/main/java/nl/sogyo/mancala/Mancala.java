@@ -6,3 +6,5 @@ public class Mancala
         System.out.println( "Hello World!" );
     }
 }
+
+// test veranderen code

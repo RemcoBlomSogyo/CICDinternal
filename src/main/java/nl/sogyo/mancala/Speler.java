@@ -21,3 +21,5 @@ public class Speler {
 		}
 	}
 }
+
+// test veranderen code
